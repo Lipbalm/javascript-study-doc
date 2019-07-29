@@ -1,0 +1,26 @@
+#---------------------------------------#
+# OSX Ignores                           #
+#---------------------------------------#
+.DS_Store
+.AppleDouble
+.LSOverride
+.localized
+
+#---------------------------------------#
+# General Ignores                       #
+#---------------------------------------#
+*~
+*.orig
+.vagrant
+
+# JetBrains IDEs
+/.idea
+
+# misc
+/connect.lock
+/coverage/*
+/report_*
+/reports/
+.sass-cache/
+*.log
+
